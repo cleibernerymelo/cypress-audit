@@ -1,0 +1,8 @@
+{
+  "baseUrl": "https://agilizei.com",
+  "chromeWebSecurity": false,
+  "watchForFileChanges": false,
+  "defaultCommandTimeout": 8000,
+  "taskTimeout": 80000,
+  "pageLoadTimeout": 80000
+}
